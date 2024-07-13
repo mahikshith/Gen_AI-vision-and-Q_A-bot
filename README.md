@@ -5,4 +5,6 @@
 
  -- Try Q&A.py to check and store the responses or conversation between user and gemini-pro via streamlit.
 
+ -- Don't forget to get an API from google studio and add to  .env file so that we can use it in above projsct
+
  
